@@ -1,3 +1,4 @@
 # woosong_project1_v1
-first C class repository /n/
+first C class repository
+---
 just created this repository...
